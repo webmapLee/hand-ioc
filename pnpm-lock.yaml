@@ -1,0 +1,36 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@types/esprima': ^4.0.3
+  '@types/estree': ^1.0.0
+  esprima: ^4.0.1
+  reflect-metadata: ^0.1.13
+
+dependencies:
+  '@types/esprima': 4.0.3
+  esprima: 4.0.1
+  reflect-metadata: 0.1.13
+
+devDependencies:
+  '@types/estree': 1.0.0
+
+packages:
+
+  /@types/esprima/4.0.3:
+    resolution: {integrity: sha512-jo14dIWVVtF0iMsKkYek6++4cWJjwpvog+rchLulwgFJGTXqIeTdCOvY0B3yMLTaIwMcKCdJ6mQbSR6wYHy98A==}
+    dependencies:
+      '@types/estree': 1.0.0
+    dev: false
+
+  /@types/estree/1.0.0:
+    resolution: {integrity: sha512-WulqXMDUTYAXCjZnk6JtIHPigp55cVtDgDrO2gHRwhyJto21+1zbVCtOYB2L1F9w4qCQ0rOGWBnBe0FNTiEJIQ==}
+
+  /esprima/4.0.1:
+    resolution: {integrity: sha512-eGuFFw7Upda+g4p+QHvnW0RyTX/SVeJBDM/gCtMARO0cLuT2HcEKnTPvhjV6aGeqrCB/sbNop0Kszm0jsaWU4A==}
+    engines: {node: '>=4'}
+    hasBin: true
+    dev: false
+
+  /reflect-metadata/0.1.13:
+    resolution: {integrity: sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==}
+    dev: false

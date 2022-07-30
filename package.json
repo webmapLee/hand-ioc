@@ -1,0 +1,20 @@
+{
+  "name": "hand-ioc",
+  "version": "1.0.0",
+  "description": "ast 工具库\r esprima @types/esprima",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/esprima": "^4.0.3",
+    "esprima": "^4.0.1",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "@types/estree": "^1.0.0"
+  }
+}

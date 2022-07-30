@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "types":["reflect-metadata"],
+        "lib":["DOM","ESNext"],
+        "moduleResolution": "node",
+        "experimentalDecorators":true,
+        "emitDecoratorMetadata":true,
+        "strict": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true
+    },
+}
